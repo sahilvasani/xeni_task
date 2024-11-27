@@ -48,7 +48,7 @@ This repository contains the implementation of a responsive and accessible `Prod
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/sahilvasani/xeni_challenge
+   git clone https://github.com/sahilvasani/xeni_task
    ```
 
 2. **Install dependencies**:
